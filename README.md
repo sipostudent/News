@@ -1,4 +1,4 @@
-"# News" 
+# News 
 
 About Python Decouple: Strict separation of settings from code
 
